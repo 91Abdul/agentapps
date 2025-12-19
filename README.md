@@ -4,7 +4,7 @@ AgenticAI - A flexible multi-agent orchestration framework for building intellig
 
 ## Features
 
-- 🤖 **Simple Agent Creation** - Clean, intuitive Phi-style API
+- 🤖 **Simple Agent Creation** - Clean, intuitive
 - 👥 **Team Collaboration** - Multiple agents working together
 - 🔄 **Sequential Workflows** - Automatic multi-step execution
 - 🛠️ **Built-in Tools** - Web search, scraping, calculations
@@ -12,6 +12,10 @@ AgenticAI - A flexible multi-agent orchestration framework for building intellig
 - 📊 **Streaming Support** - Real-time responses
 - 🔍 **Web Search** - DuckDuckGo integration
 - 🌐 **Web Scraping** - Extract content from any URL
+
+## Steamlit UI
+
+- 🎯 **Steamlit UserInterface** - https://github.com/91Abdul/agentapps/tree/main/Steamlit 
 
 ## Installation
 ```bash
