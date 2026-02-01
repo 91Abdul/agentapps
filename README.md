@@ -223,6 +223,31 @@ MIT License
 
 Contributions welcome! Please feel free to submit a Pull Request.
 
+
+## Projects
+
+1. **Powershell Agent**  
+   An automation-focused agent built using PowerShell for executing system-level tasks and workflows.  
+
+   **Source Code:**  
+   🔗 https://github.com/91Abdul/agentapps/tree/main/Projects
+
+2. **CodeFix Agent** *(by Sabaunissa)*  
+   An AI-powered agent designed to analyze code, identify issues, and suggest automated fixes.  
+
+   **Source Code:**  
+   🔗 https://github.com/sabaunissa04/Git_CodeFix_Agent  
+
+   **🎥 Demo Video:**  
+   🔗 https://www.linkedin.com/feed/update/urn:li:activity:7423333349051559936/
+
+
+  
+### 🤝 Agent Contributions
+
+We welcome contributions from developers building innovative agents.  
+If you would like to contribute your agent, please **send us a message** with a brief description and GitHub repository link.
+
 ## Links
 
 - GitHub: https://github.com/91Abdul/agentapps
