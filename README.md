@@ -15,7 +15,11 @@ AgenticAI - A flexible multi-agent orchestration framework for building intellig
 
 ## Steamlit UI
 
-- 🎯 **Steamlit UserInterface** - https://github.com/91Abdul/agentapps/tree/main/Steamlit 
+- 🎯 **Steamlit UserInterface** - https://github.com/91Abdul/agentapps/tree/main/Steamlit
+
+## Community
+
+- 💬 AgentApps Community - https://discord.gg/Q3Cbas4R
 
 ## Installation
 ```bash
